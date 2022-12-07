@@ -1,0 +1,12 @@
+1 cafe 3.50
+2 leite 1.99
+3 pao 20.00
+4 manteiga 7.99
+5 cerveja 6.51
+6 arroz 7.4
+7 feijao 10.2
+8 cha 1.1
+9 bolacha 2.3
+10 biscoito 3.4
+11 chocolate 5.5
+12 carne 3.5

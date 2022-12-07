@@ -1,0 +1,4 @@
+050201,Jose Benedito,45872685,rua Bernardo de Saiao n 105,(62)995874265,Josesito@gmail.com,6,5,true
+050201,Jose Benedito,45872685,rua Bernardo de Saiao n 105,(62)995874265,Josesito@gmail.com,6,5,true
+050201,Jose Benedito,45872685,rua Bernardo de Saiao n 105,(62)995874265,Josesito@gmail.com,6,5,true
+050201,Jose Benedito,45872685,rua Bernardo de Saiao n 105,(62)995874265,Josesito@gmail.com,6,5,true

@@ -1,0 +1,2 @@
+//Comando para iniciar o servidor usando o Broser-Sync
+    //>  browser-sync start --server --directory --files "*"
